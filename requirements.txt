@@ -1,7 +1,9 @@
-tensorflow
+tensorflow==2.4.0
 numpy
 scipy
 matplotlib
 jupyter
 tqdm
 nbsphinx
+line_profiler
+autoreload
