@@ -1,7 +1,9 @@
 tensorflow==2.4.0
 numpy
+pandas
 scipy
 matplotlib
+seaborn
 jupyter
 tqdm
 nbsphinx
